@@ -2,4 +2,5 @@ bin
 obj
 files_backup
 files
+releases
 .vscode
